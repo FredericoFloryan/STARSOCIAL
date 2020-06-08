@@ -27,3 +27,7 @@ Atom text editor
   <h2> Groups Page </h2>
   <img src='https://user-images.githubusercontent.com/48131033/83994435-a0636d00-a980-11ea-9ffc-3fd7f8c53694.PNG'>
 </p>
+<p>
+  <h2> Post Form </h2>
+  <img src='https://user-images.githubusercontent.com/48131033/83994550-f59f7e80-a980-11ea-8585-9031fee922d9.PNG'>
+</p>
