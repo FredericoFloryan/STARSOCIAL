@@ -23,3 +23,7 @@ Atom text editor
   <h2> Sign Up Page </h2>
   <img src='https://user-images.githubusercontent.com/48131033/83994369-698d5700-a980-11ea-90ec-d19030ee1b2c.PNG'>
 <p>
+<p>
+  <h2> Groups Page </h2>
+  <img src='https://user-images.githubusercontent.com/48131033/83994435-a0636d00-a980-11ea-9ffc-3fd7f8c53694.PNG'>
+</p>
