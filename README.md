@@ -14,3 +14,5 @@ Atom text editor
 <h1>How to download</h1>
   <h4> git clone https://github.com/FredericoFloryan/STARSOCIAL.git </h4>
   python manage.py runserver
+  
+
